@@ -1,18 +1,34 @@
------- ADIM: 1 ------ Photoshop kurulum klasörünüze gidin.
+------ ADIM: 1 ------ 
+Photoshop kurulum klasörünüze gidin.
 "C:\Program Files\Adobe\Adobe Photoshop 2021\Required" veya kurulum klasörünüz neyse oraya gidin.
 
------- ADIM: 2 ------ "UIColors.txt" dosyasını bulun ve yedeğini oluşturun.
+------ ADIM: 2 ------ 
+"UIColors.txt" dosyasını bulun ve yedeğini oluşturun.
 
------- ADIM: 3 ------ Google'da "rgb color picker" arayın ve favori renginizi seçin.
-Tercihen, tüm temalar ve metinlerle uyumlu daha koyu bir ton seçin. RGB renk kodunu kopyalayın [RRR, GGG, BBB] ------ ADIM: 4 ------ Bunu geçici bir metin dosyasına yerleştirin ve dördüncü opaklık parametresini ekleyin: [RRR, GGG, BBB, 1.0] ------ ADIM: 5 ------ Ardından "UIColors.txt" dosyasını açın ve aşağıdaki öznitelikleri arayın.
+------ ADIM: 3 ------ 
+Google'da "rgb color picker" arayın ve favori renginizi seçin.
+Tercihen, tüm temalar ve metinlerle uyumlu daha koyu bir ton seçin. RGB renk kodunu kopyalayın [RRR, GGG, BBB] 
 
-WidgetButtonStroke = Widget düğmeleri ana hatları WidgetButtonFillPressed = Seçili widget düğmeleri WidgetPillStrokeFocused = Widget düğmelerinin üzerine gelindiğinde ana hatları WidgetScrollbarArrows = Kaydırma çubuklarının köşesindeki küçük oklar WidgetScrollbarElevatorFill = Tüm Kaydırma Çubukları RulerText = Cetveldeki sayılar ScrollingListSelectedDefault = Seçili katmanlar ------ ADIM: 6 ------ Izgaradaki renk değerlerini ADIM: 4'te oluşturduğunuz değerle değiştirin. Dört temanın da veya en azından kullandığınız temanın renk değerlerini değiştirdiğinizden emin olun.
+
+------ ADIM: 4 ------
+Bunu geçici bir metin dosyasına yerleştirin ve dördüncü opaklık parametresini ekleyin: [RRR, GGG, BBB, 1.0] 
+
+
+
+
+------ ADIM: 5 ------ 
+Ardından "UIColors.txt" dosyasını açın ve aşağıdaki öznitelikleri arayın.
+WidgetButtonStroke = Widget düğmeleri ana hatları WidgetButtonFillPressed = Seçili widget düğmeleri WidgetPillStrokeFocused = Widget düğmelerinin üzerine gelindiğinde ana hatları WidgetScrollbarArrows = Kaydırma çubuklarının köşesindeki küçük oklar WidgetScrollbarElevatorFill = Tüm Kaydırma Çubukları RulerText = Cetveldeki sayılar ScrollingListSelectedDefault = Seçili katmanlar 
+------ ADIM: 6 ------ 
+Izgaradaki renk değerlerini ADIM: 4'te oluşturduğunuz değerle değiştirin. Dört temanın da veya en azından kullandığınız temanın renk değerlerini değiştirdiğinizden emin olun.
 Üstten alta doğru, dört satır PS temalarını şu şekilde temsil eder: Açık Gri, Orta Gri, Koyu Gri, Çok Koyu Gri.
 
------- ADIM: 7 ------ Dosyayı kaydedin.
+------ ADIM: 7 ------ 
+Dosyayı kaydedin.
 Yönetici erişimi gerektiriyorsa ve size böyle bir istem veriyorsa, izin verin ve kaydedin.
 
------- ADIM: 8 ------ Değişikliklerin etkili olması için Photoshop'u yeniden başlatın.
+------ ADIM: 8 ------ 
+Değişikliklerin etkili olması için Photoshop'u yeniden başlatın.
 
 Keyfini çıkarın!
 
